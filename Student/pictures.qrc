@@ -1,0 +1,19 @@
+<RCC>
+    <qresource>
+	<file alias="background_pic">../Assets/background.jpg</file>
+        <file alias="market_pic">../Assets/market.jpg</file>
+        <file alias="slums_pic">../Assets/slums.jpg</file>
+        <file alias="castle_pic">../Assets/castle.jpg</file>
+        <file alias="citywatch_pic">../Assets/citywatch.jpg</file>
+	<file alias="deck_pic">../Assets/cardbackground.jpg</file>
+	<file alias="Slum Agent_pic">../Assets/slumsagent.jpg</file>
+	<file alias="Throne Room Agent_pic">../Assets/throneagent.jpg</file>
+	<file alias="Markets Agent_pic">../Assets/marketagent.jpg</file>
+	<file alias="City Watch Agent_pic">../Assets/watchagent.jpg</file>
+	<file alias="Slum Influence_pic">../Assets/influencecard.jpg</file>
+	<file alias="Throne Room Influence_pic">../Assets/influencecard.jpg</file>
+	<file alias="Markets Influence_pic">../Assets/influencecard.jpg</file>
+	<file alias="City Watch Influence_pic">../Assets/influencecard.jpg</file>
+	<file alias="original">../Assets/loc1.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+slums agent: https://www.pexels.com/photo/grey-fur-kitten-127028/
+throne_room agent: https://www.pexels.com/photo/adorable-animal-cat-cute-358464/
+city watch agent: https://www.pexels.com/photo/brown-tabby-cat-134060/
+market agent: https://www.pexels.com/photo/cute-cat-eye-portrait-110142/
+influence card: https://static.pexels.com/photos/254/pet-kitten-cat-lying.jpg
+market loc pic: https://pixabay.com/get/ef34b8062afd1c22d9584518a33219c8b66ae3d110b3144391f6c37c/medieval-market-619929_1920.jpg
+slums pic: https://commons.wikimedia.org/wiki/File:Delhi_India_Slum_January_2011.jpg
+throne room: http://maxpixel.freegreatpicture.com/Disney-Castle-Neuschwanstein-Germany-Landmark-532850
+city watch: https://pixabay.com/get/ec36b3092ae90021d85a5840981318c3fe76e6dc1bb4134697f0c1/watch-tower-53262_1280.jpg
